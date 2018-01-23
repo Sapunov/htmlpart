@@ -1,2 +1,4 @@
-# htmlpart
-Find parts in bunch of html documents
+HTMLTOOLS
+=========
+
+Some useful features to work with html files
