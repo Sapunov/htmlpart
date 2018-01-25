@@ -48,7 +48,7 @@ USELESS_TAGS = set((
     'script', 'style', 'link', 'meta', 'audio', 'applet',
     'base', 'basefont', 'bgsound', 'col', 'colgroup', 'command',
     'datalist', 'frameset', 'frame', 'iframe', 'keygen',
-    'br', 'param', 'source'
+    'param', 'source'
 ))
 
 
